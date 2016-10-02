@@ -1,7 +1,7 @@
 # Challenge 3: Data Reporting with SQL
 
 ## Introduction: This is project to write SQL Functions Stored and SQL Query to extract Data Reporting.
-## Requirement: 
+## Requirement:
 Given the following purchases table that record all purchases of an online ecommerce store:
 create table purchases (
   id integer primary key,
@@ -25,7 +25,7 @@ Please submit your work (SQL) and state the SQL database you're using (MySQL, Po
 Examples (data below has been simplfied for ease of understanding, not how it is actually stored in the table, e.g. user_id will only contain integer)
 
 |id | user_id   | product_id | created_at |
-| ------------- |:-------------:| -----:|
+| - |:--------:| ----------:| ----------:|
 |1  | alice     | 1          | Jul 2016   |
 |2  | charlie   | 1          | Jul 2016   |
 |3  | alice     | 2          | Aug 2016   |
@@ -48,4 +48,5 @@ Expected results:
 2. Select and execute "GIYDataTraining- Query.sql" file and see the result.
 
 My Result:
-![Result of Data Reporting with SQL](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Result of Data Reporting with SQL")
+
+![Result of Data Reporting with SQL](https://github.com/hieu292/DataReportingWithSQL/blob/master/Result.PNG "Result of Data Reporting with SQL")
